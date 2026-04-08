@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="443" height="290" viewBox="0 0 443 290" fill="none">
+  <defs>
+    <linearGradient id="cloudStroke" x1="58" y1="26" x2="384" y2="239" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7899E4"/><stop offset="1" stop-color="#4C6DB7"/>
+    </linearGradient>
+    <linearGradient id="cloudFill" x1="81" y1="48" x2="352" y2="225" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.58" stop-color="#EAF1F3"/><stop offset="1" stop-color="#CFE1F1"/>
+    </linearGradient>
+    <linearGradient id="highlight" x1="164" y1="39" x2="285" y2="152" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="highlightLeft" x1="88" y1="101" x2="176" y2="163" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.42"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="orangeFill" x1="319" y1="188" x2="366" y2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFB13B"/><stop offset="1" stop-color="#FF7D1A"/>
+    </linearGradient>
+    <linearGradient id="orangeGloss" x1="332" y1="185" x2="356" y2="214" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFD07E" stop-opacity="0.55"/><stop offset="1" stop-color="#FFD07E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M58 174 C58 132 91 99 133 99 C136 99 139 99 143 100 C156 58 194 31 242 31 C299 31 344 76 344 133 C344 135 344 138 344 140 C349 139 354 138 359 138 C397 138 428 169 428 207 C428 245 397 276 359 276 L141 276 C95 276 58 239 58 193 Z" fill="url(#cloudStroke)"/>
+  <path d="M69 174 C69 138 98 110 133 110 C138 110 144 110 149 111 C159 67 196 42 242 42 C292 42 333 83 333 133 C333 138 333 143 332 147 C340 144 349 143 359 143 C391 143 417 170 417 202 C417 234 391 261 359 261 L283 261 C272 261 262 257 255 250 C249 257 239 261 228 261 L134 261 C98 261 69 232 69 196 C69 188 69 181 69 174 Z" fill="url(#cloudFill)"/>
+  <path d="M252 46 C292 48 326 79 331 119 C317 145 290 168 246 182 C206 194 168 192 126 177 C168 171 201 154 221 126 C239 101 242 74 252 46Z" fill="#D6E1E7" opacity="0.34"/>
+  <path d="M166 49 C196 33 233 31 259 37 C241 41 233 52 227 67 C218 92 193 111 150 112 C118 113 97 108 81 98 C103 76 132 57 166 49Z" fill="url(#highlight)"/>
+  <path d="M90 112 C108 104 130 104 149 112 C166 119 177 131 180 145 C155 153 131 155 108 149 C93 145 81 138 72 128 C78 121 83 116 90 112Z" fill="url(#highlightLeft)"/>
+  <circle cx="216" cy="133" r="11" fill="#213E80"/><circle cx="290" cy="133" r="11" fill="#213E80"/>
+  <path d="M222 165 C233 179 249 185 267 185 C285 185 301 179 312 165" stroke="#213E80" stroke-width="9" stroke-linecap="round"/>
+  <rect x="314" y="183" width="49" height="49" rx="8" fill="url(#orangeFill)"/>
+  <path d="M316 229 L360 185" stroke="url(#orangeGloss)" stroke-width="14" stroke-linecap="round"/>
+</svg>
